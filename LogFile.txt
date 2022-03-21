@@ -1,0 +1,17 @@
+
+Chess Game Save File
+Player vs. AI
+AI Black
+Difficulty: Easy
+
+Move 1
+White
+e2e3
+
+----------------------
+
+Move 2
+Black
+b8a6
+
+----------------------
